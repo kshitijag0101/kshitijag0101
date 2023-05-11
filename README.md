@@ -6,7 +6,7 @@
 # 💫 About Me:
 - 🔭 I’m currently working on Web Projects<br>
 - 👯 I'm looking to collaborate on Web Development Projects<br>
-- 🌱 I'm currently learning Blockchain Development<br>
+- 🌱 I'm currently learning Android Development<br>
 - 💬 Ask me about Web Development<br>
 - ⚡ Fun Fact - The first alarm clock only rings at 4 a.m.
 
